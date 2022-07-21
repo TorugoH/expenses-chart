@@ -1,0 +1,118 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color: #f7e9dc;
+}
+footer{
+  position: relative;
+  bottom: 9em;
+}
+footer>h1{
+  position: relative;
+  right: 7em;
+  bottom: 0em;
+}
+#cb{
+  position: relative;
+  right: 10em;
+  bottom: 4em;
+}
+#pcd{
+  position: relative;
+    bottom: 8em;
+    left: 5em;
+}
+#balanco{
+  position: relative;
+    bottom: 2.5em;
+    font-size: 34px;
+}
+hr{
+  position: relative;
+  bottom: 13em;
+  width: 30vw;
+}
+.cabecalho{
+  background: #ec755d;
+  width: 33vw;
+  position: relative;
+  left: 36vw;
+  border-radius: 11px;
+  padding: 1px;
+  top: 1vh;
+  height: 14vh;
+  color: aliceblue;
+}
+.cabecalho>h5{
+  position: relative;
+  right: 17em;
+  font-size: 11px;
+  top: 0em;
+}
+#label{
+  position: relative;
+  bottom: 11em;
+  display: flex;
+  justify-content: space-around;
+  bottom: 15.5em;
+}
+#titulocabeca{
+  position: relative;
+  top: 1em;
+  right: 4em;
+}
+#grafico{
+  position: relative;
+  bottom: 3em;
+}
+#logo{
+  position: relative;
+  left: 10em;
+  bottom: 6em;
+  height: 40px;
+}
+#saldo{
+  top: -0.5em;
+  position: relative;
+  right: 7em;
+  font-size: 25px;
+}
+#corpo{
+  background-color: #fffcf7;
+  width: 33vw;
+  position: relative;
+  left: 36vw;
+  border-radius: 10px;
+  height: 27em;
+}
+.mes{
+  padding: 10px;
+}
+#mon{
+  top:17.5vh;
+  left: 1em;
+}
+#tue{
+  left: 5.5em;
+  top: 10vh;
+}
+#wed{
+  left: 10em;
+}
+#thu{
+  left: 14.5em;
+  top:-7vh
+}
+#fri{
+  left: 19em;
+  top:-13vh
+}
+#sat{
+  left: 23.5em;
+  top:-21.9vh
+}
+#sun{
+  left: 28em;
+  top:-28.3vh
+}
